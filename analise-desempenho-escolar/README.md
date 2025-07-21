@@ -15,16 +15,6 @@ Analisar o desempenho de alunos em diferentes disciplinas, calculando:
 - Seaborn
 - Spyder (IDE)
 
-## 📁 Estrutura
-analise-desempenho-escolar/
-├── dados/
-│ └── desempenho_alunos.csv
-├── scripts/
-│ ├── 01_carregar_dados.py
-│ ├── 02_estatisticas_basicas.py
-│ ├── 03_media_por_aluno.py
-│ └── 04_graficos.py
-
 👨‍🏫 Autor
 Antunes L. Pinto de Menezes
 Professor de Matemática em transição para a área de Análise de Dados
