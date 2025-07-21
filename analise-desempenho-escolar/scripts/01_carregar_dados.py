@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Caminho corrigido - escolha uma das opções abaixo:
+# Caminho - escolha uma das opções abaixo:
 caminho_arquivo = r'C:\Analise de Dados\Projetos\analise-desempenho-escolar\dados\desempenho_alunos.csv'
 # ou
 # caminho_arquivo = 'C:/Analise de Dados/Projetos/analise-desempenho-escolar/dados/desempenho_alunos.csv'
