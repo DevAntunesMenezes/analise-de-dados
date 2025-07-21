@@ -15,5 +15,5 @@ Analisar o desempenho de alunos em diferentes disciplinas, calculando:
 - Seaborn
 - Spyder (IDE)
 
-👨‍🏫 Autor
+👨‍🏫 Autor:
 Antunes L. Pinto de Menezes
