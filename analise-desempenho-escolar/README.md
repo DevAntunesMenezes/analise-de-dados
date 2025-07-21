@@ -17,4 +17,3 @@ Analisar o desempenho de alunos em diferentes disciplinas, calculando:
 
 👨‍🏫 Autor
 Antunes L. Pinto de Menezes
-Professor de Matemática em transição para a área de Análise de Dados
